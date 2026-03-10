@@ -7,7 +7,7 @@ spring:
       chat: google-genai
     google:
       genai:
-        api-key: <GIVE_YOUR_KEY>
+        api-key: AIzaSyC237sDb89oQ6ZhI3UPPM_iacBZH7ng2Zw
 
 server:
   port: 9191
